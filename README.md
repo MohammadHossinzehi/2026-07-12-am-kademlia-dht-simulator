@@ -1,6 +1,6 @@
 # Kademlia DHT Simulator
 
-A from-scratch implementation of the [Kademlia](https://en.wikipedia.org/wiki/Kademlia) distributed hash table algorithm (Maymounkov & MaziÃ¨res, 2002) in plain JavaScript, with zero runtime dependencies: XOR-distance routing, k-buckets with LRU eviction, the iterative `FIND_NODE`/`FIND_VALUE` lookup procedure, and a `PUT`/`GET` key-value store built on top of it. It ships with a full test suite and an interactive browser visualizer that runs the exact same code the tests exercise.
+A from-scratch implementation of the [Kademlia](https://en.wikipedia.org/wiki/Kademlia) distributed hash table algorithm (Maymounkov & Mazières, 2002) in plain JavaScript, with zero runtime dependencies: XOR-distance routing, k-buckets with LRU eviction, the iterative `FIND_NODE`/`FIND_VALUE` lookup procedure, and a `PUT`/`GET` key-value store built on top of it. It ships with a full test suite and an interactive browser visualizer that runs the exact same code the tests exercise.
 
 ## What it does, and why it's useful
 
